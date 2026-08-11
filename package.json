@@ -1,0 +1,39 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "embed": "tsx src/embed.ts",
+    "generate": "drizzle-kit generate",
+    "migrate": "drizzle-kit migrate",
+    "push": "drizzle-kit push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@fastify/multipart": "^10.1.0",
+    "@fastify/swagger": "^9.8.1",
+    "@fastify/swagger-ui": "^6.1.1",
+    "@google/genai": "^2.13.0",
+    "dotenv": "^17.4.2",
+    "drizzle-orm": "^0.45.2",
+    "fastify": "^5.10.0",
+    "langfuse": "^3.38.20",
+    "openai": "^7.4.0",
+    "pg": "^8.22.0",
+    "pg-boss": "^12.26.3",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "@types/pg": "^8.20.0",
+    "drizzle-kit": "^0.31.10",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  }
+}
