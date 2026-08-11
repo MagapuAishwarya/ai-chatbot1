@@ -1,0 +1,43 @@
+---
+title: Create Multiple Resumes
+route: /talent-database/all-resumes
+tags: [all-resumes, multiple-resumes, talent-database]
+---
+
+## Create Multiple Resumes
+Click the **+ button** in the top-right of the **All Resumes** page and select **Multiple Profiles**.
+This opens the **Resume Submission** form.
+
+## Upload Multiple Resumes
+The Multiple Resumes feature allows recruiters to upload and create multiple candidate profiles at once.Keywords and skills may be automatically extracted from uploaded resumes and can be updated later from the candidate profile.
+
+## Resume List
+
+| Field | Description |
+| ------- | ----------- |
+| **Upload Resume** *(required)* | Upload a candidate resume |
+| **First Name** *(required)* | Candidate's first name |
+| **Last Name** *(required)* | Candidate's last name |
+| **Email ID** *(required)* | Candidate email address |
+| **Phone Number** | Candidate contact number |
+| **Resume File** | Displays the uploaded resume file status |
+| **Options** | Remove or manage the resume entry |
+
+## Resume Upload
+
+The Resume section allows recruiters to upload multiple candidate resumes.
+
+Supported file formats:
+- PDF
+- DOC
+- DOCX
+
+Additional actions available:
+- **Add Another Resume** – Add a new resume row for additional candidates.
+- **Delete** – Remove a resume entry from the list.
+
+## Saving
+
+Click **Submit** to create candidate profiles and add them to **All Resumes**.
+
+Click **Cancel** to discard all changes and close the form.

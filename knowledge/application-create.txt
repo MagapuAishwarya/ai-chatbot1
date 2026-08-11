@@ -1,0 +1,157 @@
+---
+title: Create an ATS Application
+route: /talent-acquisition/ats/applications
+tags: [applications, create, talent-acquisition]
+---
+
+# Create an ATS Application
+The Create ATS Application feature allows recruiters to submit candidate applications for specific job postings. Recruiters can capture candidate information, upload resumes, record skills and qualifications, and associate candidates with open positions.
+
+## Features
+
+* Create candidate applications
+* Associate candidates with job postings
+* Upload resumes and supporting information
+* Capture candidate qualifications and certifications
+* Record compensation expectations
+* Manage candidate skills and technologies
+* Store professional profile links
+* Track candidate eligibility and availability
+
+## User Guide
+
+### Creating an ATS Application
+
+1. Click the **+** button in the top-right corner of the Jobs list.
+2. The **Resume Submission** form opens.
+3. Complete the required fields.
+4. Upload the candidate's resume.
+5. Click **Create** to submit the application.
+
+### Job Information
+
+| Field                        | Description                                          |
+| ---------------------------- | ---------------------------------------------------- |
+| **Job Post ID** *(required)* | Select the job posting associated with the candidate |
+
+### Candidate Profile
+
+| Field                       | Description                      |
+| --------------------------- | -------------------------------- |
+| **First Name** *(required)* | Candidate's first name           |
+| **Last Name** *(required)*  | Candidate's last name            |
+| **Email** *(required)*      | Candidate email address          |
+| **Phone** *(required)*      | Candidate contact number         |
+| **Education Summary**       | Candidate educational background |
+| **Current Position**        | Candidate's current job title    |
+
+### Eligibility & Availability
+
+| Field                         | Description             |
+| ----------------------------- | ----------------------- |
+| **Security Clearance**        | Clearance level         |
+| **Work Authorization Status** | Work authorization type |
+| **Availability**              | Available start time    |
+| **Open to Relocation**        | Willingness to relocate |
+| **Willing to Travel**         | Willingness to travel   |
+
+### Compensation
+
+| Field                      | Description                        |
+| -------------------------- | ---------------------------------- |
+| **Compensation Currency**  | Currency used for compensation     |
+| **Expected Compensation**  | Expected salary                    |
+| **Compensation Frequency** | Hourly, Weekly, Monthly, or Yearly |
+
+### Experience & Industry
+
+| Field                        | Description                   |
+| ---------------------------- | ----------------------------- |
+| **Total Experience (Years)** | Total professional experience |
+| **Industry**                 | Primary industry              |
+
+### Certifications
+
+| Field                    | Description                     |
+| ------------------------ | ------------------------------- |
+| **Enter Certifications** | Add certifications              |
+| **Certifications**       | Displays entered certifications |
+
+### Cover Letter
+
+Use the rich-text editor to add candidate summaries, introductions, or additional information.
+
+### Resume Upload
+
+Upload candidate resumes in the following formats:
+
+* PDF
+* DOC
+* DOCX
+
+### Skills & Technologies
+
+| Field                              | Description           |
+| ---------------------------------- | --------------------- |
+| **Skills & Technologies**          | Candidate skills      |
+| **Keywords, Skills, Technologies** | Searchable skill tags |
+
+### Location
+
+| Field                       | Description                  |
+| --------------------------- | ---------------------------- |
+| **Preferred Work Location** | Candidate preferred location |
+| **Country**                 | Country of residence         |
+| **State / Province**        | State or province            |
+| **City**                    | City of residence            |
+| **Zip / Postal Code**       | Postal code                  |
+
+### Professional Links
+
+| Field                      | Description                 |
+| -------------------------- | --------------------------- |
+| **LinkedIn URL**           | LinkedIn profile            |
+| **GitHub / Portfolio URL** | GitHub or portfolio website |
+
+### Resume Visibility
+
+Enable **Public** to make the resume searchable within the platform.
+
+### Saving
+
+* Click **Create** to submit the ATS Application.
+* Click **Cancel** to discard changes.
+
+## FAQs
+
+### What fields are required?
+The required fields include Job Post ID, First Name, Last Name, Email, and Phone.
+
+### Which resume formats are supported?
+PDF, DOC, and DOCX formats are supported.
+
+### Can I add certifications?
+Yes. Certifications can be entered and managed in the Certifications section.
+
+### Can resumes be searched within the platform?
+Yes. Enable the **Public** option to make resumes searchable.
+
+## Training Videos
+Learn how to create and submit ATS applications, upload resumes, and manage candidate information.
+
+**YouTube Link:**
+https://youtube.com/----------
+
+## Troubleshooting
+
+### Unable to Submit an Application
+Ensure all required fields are completed before clicking **Create**.
+
+### Resume Upload Not Working
+Verify that the file is in PDF, DOC, or DOCX format.
+
+### Unable to Select a Job Post ID
+Confirm that active job postings are available and that you have the required permissions.
+
+### Candidate Information Not Saving
+Review the entered information for validation errors and try again.

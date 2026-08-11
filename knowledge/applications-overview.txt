@@ -1,0 +1,70 @@
+---
+title:  ATS Applications Overview
+route:  /talent-acquisition/ats/applications
+tags:  [ ATS applications, talent-acquisition, overview ]
+---
+
+# Applications Overview
+The Applications section is under **Talent Acquisition** in the left navigation. It lists all candidates who have applied to your job postings and provides visibility into application status and hiring progress.
+
+# 🚀 Features
+- View all candidate applications
+- Track application and hiring progress
+- Filter applications by status
+- Search applications using candidate or job details
+- Export application data
+- Customize table views using fixed columns
+- Adjust row height for improved visibility
+- Create new applications directly from the Applications page
+
+## User Guide
+
+##Navigating to Applications
+Go to **Talent Acquisition → Applications** in the left sidebar. You can also access it directly at `/talent-acquisition/ats/applications`.
+
+## Filtering and Views
+Use the tabs at the top of the page to filter applications:
+- **All** — view all applications
+- **Active** — view applications currently in progress
+- **Inactive** — view applications that are no longer active
+
+Additional options are available in the toolbar:
+- **Filter**(funnel icon) — Filter applications based on  application status and contact status
+- **Search**(magnifying glass) — Find applications by candidate name, job title, or job ID
+- **Export** — download application data
+- **Fixed Columns** — switch between available views
+- **Row Height** — Adjusts the height of rows by minimizing or maximizing the size of the rows for better visibility and screen usage
+- **Add or Create (+)** — create a new application
+
+## FAQs
+###Where can I view candidate applications?
+Navigate to Talent Acquisition → Applications to view all candidate applications.
+
+###How do I find a specific application?
+Use the Search option to search by candidate name, job title, or Job ID.
+
+###Can I filter applications by status?
+Yes. Use the All, Active, and Inactive tabs or the Filter option in the toolbar.
+
+###Can application data be exported?
+Yes. Click Export to download application data.
+
+###How do I create a new application?
+Click the Add or Create (+) button and complete the required information.
+
+##Training Videos
+Learn how to navigate the Applications module Overview, manage candidate applications, use filtering and search options, and track application progress.
+YouTube Link: https://www.youtube.com/watch?v=hnSW7sYKHGs   // random link of AI-Powered Workforce & Staffing Intelligence Platform
+
+## Troubleshooting
+###Unable to Find an Application
+Clear any active filters and verify the candidate name, Job ID, or job title before searching again.
+
+###No Results Displayed
+Switch to the All tab and review any active filters.
+
+###Export Not Working
+Refresh the page and try again. Verify that you have the required export permissions.
+
+###Unable to Create a New Application
+Ensure all required fields are completed and that you have permission to create applications.

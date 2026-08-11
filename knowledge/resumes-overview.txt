@@ -1,0 +1,27 @@
+---
+title: All Resumes Overview
+route: /talent-database/all-resumes
+tags: [all resumes, talent-database, overview]
+---
+
+# All-Resumes Overview
+The All Resumes section is under **Talent Database** in the left navigation. It lists all candidate resumes stored in the system and provides quick access to candidate contact information and profile details.
+
+## Navigating to All Resumes
+Go to **Talent Database → All Resumes** in the left sidebar. You can also access it directly at `/talent-database/all-resumes`.
+
+## Filtering and Views
+
+Use the tabs at the top of the page to filter resumes:
+- **All** — view all resumes in the database
+- **Active** — view active candidate records
+- **Inactive** — view inactive candidate records
+
+The toolbar on the right offers additional controls:
+- **Search** (magnifying glass) — search resumes by applicant name, email address, contact number, or current position
+- **Export** — download resume data
+- **View toggles** — switch between available views
+- **Row Height** —Adjust the height of rows by minimizing or maximizing row size for better visibility and screen usage
+- **Add or Create (+)** — Add candidate profiles to the Internal Talent Pool using either:
+  - **Single Profile** — add one candidate profile
+  - **Multiple Profiles** —  add multiple candidate profiles at once

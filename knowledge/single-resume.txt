@@ -1,0 +1,95 @@
+---
+title: Create Single Profile
+route: /talent-database/all-resumes
+tags: [all-resumes, single-profile, resume-submission]
+---
+
+## Create Single Profile
+Click the **+ button** in the top-right of the **All Resumes** page and select **Single Profile**.
+This opens the **Resume Submission** form.
+
+## Job Information
+
+| Field | Description |
+| ------- | ----------- |
+| **Job Post ID** | Select the job associated with the candidate profile |
+| **Cover Letter** | Enter or paste the candidate's cover letter |
+
+## Candidate Profile
+
+| Field | Description |
+| ------- | ----------- |
+| **First Name** *(required)* | Candidate's first name |
+| **Last Name** *(required)* | Candidate's last name |
+| **Email** *(required)* | Candidate's email address |
+| **Phone** *(required)* | Candidate's contact number |
+| **Education Summary** | Candidate's educational background |
+| **Current Position** | Candidate's current job title |
+
+## Eligibility & Availability
+
+| Field | Description |
+|---------|------------|
+| **Security Clearance** | Clearance level (Not Specified, Public Trust, Secret, Top Secret) |
+| **Work Authorization Status** | Work authorization type (US Citizen, Permanent Resident (GC), EAD – No Sponsorship Needed, Employer-Sponsored Visa, Others) |
+| **Availability** | Available start time (Immediately/ASAP, Week, Two Weeks, Month) |
+| **Open to Relocation** | Willing to relocate (Yes/No) |
+| **Willing to Travel** | Willing to travel (Yes/No) |
+
+## Resume Upload
+The Resume section allows recruiters to upload a candidate resume.
+Supported file formats: PDF, DOC, DOCX
+
+## Compensation
+
+| Field | Description |
+| ------- | ----------- |
+| **Compensation Currency** | Select the expected salary currency |
+| **Expected Compensation** | Enter the candidate's expected compensation |
+| **Compensation Frequency** | Select Hourly, Monthly, or Yearly compensation frequency |
+
+## Experience & Industry
+
+| Field | Description |
+| ------- | ----------- |
+| **Total Experience (Years)** | Enter the candidate's total years of experience |
+| **Industry** | Select the candidate's industry |
+
+## Certifications
+
+| Field | Description |
+|---------|------------|
+| **Enter Certifications** |
+| **Certifications** | Displays entered certifications |
+
+## Skills & Technologies
+
+| Field | Description |
+| ------- | ----------- |
+| **Enter Skills & Technologies** | Enter skills separated by commas |
+| **Keywords, Skills, Technologies** | Displays extracted and manually entered skills |
+
+## Location
+
+| Field | Description |
+| ------- | ----------- |
+| **Preferred Work Location** | Enter the preferred work location |
+| **Country** | Select the candidate's country |
+| **State / Province** | Select the state or province |
+| **City** | Select the city |
+| **Zip / Postal Code** | Enter the postal code |
+
+## Professional Links
+
+| Field | Description |
+| ------- | ----------- |
+| **LinkedIn URL** | Candidate's LinkedIn profile link |
+| **GitHub / Portfolio URL** | Candidate's GitHub or portfolio website |
+
+## Resume Visibility
+The **Public** option makes the resume discoverable and searchable within the platform.
+
+## Saving
+
+Click **Create** to create the candidate profile and add it to **All Resumes**.
+Click **Cancel** to discard all changes and close the form.

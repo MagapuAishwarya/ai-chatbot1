@@ -1,0 +1,53 @@
+---
+title: ATS Submissions Overviews
+route: /talent-marketing/ats/submissions
+tags: [ATS submissions, talent-marketing, overview]
+---
+
+# Submissions Overview
+The Submissions section is under **Talent Marketing** in the left navigation. It lists all candidates who have been submitted to clients for open positions and provides visibility into submission status and hiring progress.
+
+## Navigating to Submissions
+Go to **Talent Marketing → ATS - Submissions** in the left sidebar. You can also access it directly at `/talent-marketing/ats/submissions`.
+
+## Filtering and Views
+Use the tabs at the top of the page to filter submissions:
+
+- **All** — view all submissions
+- **Active** — view submissions currently in progress
+- **Inactive** — view submissions that are no longer active
+
+Additional options are available in the toolbar:
+- **Filter** (funnel icon) —  Filter applications based on  application status and contact status
+- **Search** (magnifying glass) — Find submissions by candidate name, job title, submission date, or submitted by
+- **Export** — Download submission data
+- **Fixed Columns** — Switch between available views
+- **Row Height** — Adjust the height of rows by minimizing or maximizing row size for better visibility and screen usage
+
+## Submission Information
+
+The submissions grid displays the following details:
+- **Candidate Name** — Name of the submitted candidate
+- **Job Title** — Position for which the candidate was submitted
+- **Submission Date** — Date the candidate was submitted to the client
+- **Submitted By** — Recruiter or user who submitted the candidate
+- **Status** — Current status of the submission
+- **Options** — Additional actions available for the submission
+
+## Submission Statuses
+
+Common submission statuses include:
+- **Interview** — Candidate is progressing through the interview process
+- **Joined** — Candidate has accepted the offer and joined
+- **Placed** — Candidate has been successfully placed
+- **Client Rejected** — Candidate was rejected by the client
+- **Inactive** — Submission is no longer active
+
+## Managing Submissions
+
+From the submissions page, users can:
+- Monitor candidate submission progress
+- Track recruiter activity
+- Review submission history
+- Update submission records
+- Access submission-specific actions through the Options menu
